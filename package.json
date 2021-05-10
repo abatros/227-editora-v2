@@ -33,7 +33,7 @@
     "pg-monitor": "^1.4.1",
     "sha1": "^1.1.1",
     "shortid": "^2.2.15",
-    "url-parse": "^1.4.7"
+    "url-parse": "^1.5.0"
   },
   "meteor": {
     "mainModule": {
